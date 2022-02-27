@@ -1,0 +1,794 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The New art of thriving, or, The Way to get and keep money being a seasonable caution against the extravagances of these times, containing sixteen excellent rules and observations for promoting good husbandry, and banishing idleness and profuseness, the certain parents of poverty, with a table of expences : principally intended for an admonition to youth, but necessary to be practised by all persons in these hard times, and to be set up in every family.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89940</idno>
+            <idno type="STC">Wing N552A</idno>
+            <idno type="STC">ESTC R180878</idno>
+            <idno type="EEBO-CITATION">43663312</idno>
+            <idno type="OCLC">ocm 43663312</idno>
+            <idno type="VID">172073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The New art of thriving, or, The Way to get and keep money being a seasonable caution against the extravagances of these times, containing sixteen excellent rules and observations for promoting good husbandry, and banishing idleness and profuseness, the certain parents of poverty, with a table of expences : principally intended for an admonition to youth, but necessary to be practised by all persons in these hard times, and to be set up in every family.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Bruges for J. Conyers at the Black Raven in Duck-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained and cropped.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Money --  Quotations, maxims, etc.</term>
+               <term>Wealth --  Quotations, maxims, etc.</term>
+               <term>Saving and thrift --  Quotations, maxims, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172073:1"/>
+            <head>The New ART of THRIVING Or, The way to GET and KEEP MONEY: Being a Seaſonable <hi>Caution</hi> againſt the <hi>Extravagances</hi> of theſe Times, Containing ſixteen Excellent Rules and Obſervations for Promoting <hi>Good Huſbandry,</hi> and Baniſhing <hi>Idleneſs</hi> and <hi>Profuſeneſs,</hi> the certain Parents of Poverty; with a Table of Expences: Principally intended for an Admonition to <hi>Youth</hi> but neceſſary to be practiſed by <hi>All Perſons in theſe hard Times,</hi> and to be ſet up in every Family.</head>
+            <p>THough Complaints of <hi>Poverty</hi> and <hi>Scarcity</hi> of Money are unhappily become no leſs <hi>general</hi> than <hi>lamentable;</hi> ſo that where-ever we go, our Ears are aſſaulted with the ſad <hi>Rhe<g ref="char:EOLhyphen"/>torick</hi> of <hi>Beggary;</hi> and our Eyes with deplorable objects of pitty: yet muſt it be acknowledged, That we rail <hi>Impertinent<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> at the hardneſs of the Times, ſince 'tis our ſelves that make them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch; men generally by <hi>Sloth</hi> or <hi>Vanity, Pride, Negligence,</hi> or <hi>Ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ravagancy,</hi> twiſting thoſe <hi>Chains</hi> of neceſſity wherein they lie <hi>En<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>angled;</hi> wherefore ſince Diſeaſes are not cured with our <hi>Cries,</hi> nor <hi>Miſeries</hi> redreſt by <hi>Lamentations,</hi> let every one wipe his <hi>Eyes</hi> and make uſe of his <hi>Head</hi> and his <hi>Hands</hi> to preſerve or recover himſelf but of the Quagmire of Want: It being certain that <hi>ſtill</hi> every man in Health and Strength, may forge himſelf out a <hi>Fortune</hi> by <hi>Indu<g ref="char:EOLhyphen"/>ſtry</hi> and <hi>Frugality,</hi> and obtain (though not a ſplendid yet) a com<g ref="char:EOLhyphen"/>fortable Subſiſtance.</p>
+            <p>The general Cauſe of Poverty, is either <hi>Profuſeneſs,</hi> or not <hi>Im<g ref="char:EOLhyphen"/>proving</hi> thoſe Talents God hath lent us: Of the firſt kind, we may reckon up,</p>
+            <p n="1">
+               <hi>I.</hi> One to be <hi>Gaudy</hi> in <hi>Apparel,</hi> and we will rank it firſt, becauſe 'tis moſt viſible; How do many Shipwrack their Credits and ſcore vaſt ſumms in <hi>Silk-mens, Mercers, Drapers, Taylors,</hi> or <hi>Semſtriſ<g ref="char:EOLhyphen"/>ſes</hi> Books; only to follow ſome fooliſh <hi>New Faſhion,</hi> and make hemſelves rediculous Apes; or at beſt but like the <hi>Cynamon Tree,</hi> whoſe bark is more worth than its body: when a <hi>thrifty</hi> wiſe per<g ref="char:EOLhyphen"/>ſon can accouter himſelf with good, decent and creditable Apparel for half or a third part of the others charge. Can our beſt-ſtudied <hi>Faſhion-mongers</hi> tell us what uſe there is of Perriwigs or Lace<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands of ſix, ſeven, or eight pounds, nay forty or fifty pounds a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and? Or of ſuch dawbing of Coats or Petticoats with Gold Lace, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Silver Points of Five or Eight pound the dozen, meerly to dan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le at their <hi>Knees?</hi> Perſons that have the Kernel of Wiſdome and Magnanimity, ſeldome give much regard to the Shell of <hi>Gawdy Ap<g ref="char:EOLhyphen"/>parel;</hi> and a Gentleman in a plain <hi>Cloth Suit,</hi> well made, may de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ently appear in the preſence of the greateſt Monarch in <hi>Chriſten<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome.</hi>
+            </p>
+            <p n="2">
+               <hi>II. A Liquoriſh Tooth,</hi> or <hi>Extravagant Dyet:</hi> What waſte do <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur young Gallants make at their Treats at Tavern or <hi>French Or<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>aries?</hi> I have known three or four of them ſpend <hi>Forty</hi> or <hi>Fifty</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>illings a piece, for a Dinner or Supper; when two diſhes of ſeven <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eight ſhillings price, had been as pleaſant, and much more nou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſhing and wholeſome. No leſs vain is extravagancy in ordinary <hi>Houſe-keeping,</hi> variety of diſhes does but oppreſs nature and di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urb digeſtion: the belly never ballances Accounts. What madneſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it therefore to keep ſuch a ſtir to gratify it? eſpecially where all <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ngs are to be bought in by the penny, and Servants are truſted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be our Purveyors.</p>
+            <p n="3">
+               <hi>III. Drinking,</hi> or (as they nick-name it) <hi>Good fellowſhip,</hi> is not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly a ſhrewd <hi>drainer</hi> of the <hi>Purſe,</hi> but a great <hi>Conſumer</hi> of <hi>Time,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ereby cauſing <hi>neglect of buſineſs,</hi> and many times rendring one in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pable of doing any thing ſome dayes after: beſides it weakens the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ody,</hi> impairs the <hi>Intellectuals,</hi> brings into <hi>Ill company,</hi> ruines ones <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>edit,</hi> and leads to a thouſand inconveniences: for what folly, miſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ief, or villany will not a man engage in when he is drunk? <hi>See <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to Drunkards.</hi>
+            </p>
+            <p n="4">
+               <hi>IV. Courting of Women;</hi> Experienced <hi>Solomon</hi> calls a Whore a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ep ditch, and certainly who ever follows her Enticements, though <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s way ſeem paved with Delight, treads to paths of Deſtruction: <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d though he have never ſo plentiful an Eſtate, ſhall in ſhort time, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d emptineſs in his <hi>Purſe,</hi> rottenneſs in his <hi>bones,</hi> horror in his <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſcience,</hi> and infamy intail'd upon his <hi>memory:</hi> Nor is it any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her than a <hi>fooliſh vanity</hi> to treat any Women often at <hi>Extraordi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary Expences;</hi> for if they be <hi>Vertuous,</hi> they will not <hi>expect it,</hi> if otherwiſe, they do not <hi>deſerve it.</hi>
+            </p>
+            <p n="5">
+               <hi>V. Gaming,</hi> is the High-way to <hi>Beggars Buſh;</hi> a bewitching <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anity; that will not ſuffer a man to keep his money in his pocket; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thout putting it to the hazard of a <hi>Throw,</hi> whether it ſhall conti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue <hi>his own,</hi> or be <hi>anothers.</hi> I have known <hi>a poor Citizen</hi> ſo beſot<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d with this itch of <hi>Shaking the Elbow,</hi> that no ſooner could he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Half a Piece or a Piece, but away he muſt go, till he had plaid it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y every farthing; though his poor wife and half a dozen ſmall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ildren were ready in the mean while to ſtarve for want of bread: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> himſelf glad to drink <hi>water</hi> or <hi>Small Beer,</hi> for a fortnight after.</p>
+            <p n="6">
+               <hi>VI. Suretiſhip,</hi> has been an Eminent Gulf to ſwallow fair E<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s; ſo much the more lamentable, becauſe it falls upon perſons <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>beſt nature;</hi> eaſily inveigled by Crafty Knaves to <hi>Engage</hi> for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r own <hi>Debts,</hi> which they never intend to pay themſelves. That <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Emblem I have ſeen, was very ſignificant in ſuch Caſes; of a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k gallant <hi>young Heir,</hi> ſliding down the great end of a <hi>Hunters <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rn</hi> with eaſe; but cruelly pinched and tattered at the coming <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h at the ſmall end; with one of his brother foolls ſtanding hard <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laughing at him; and this Motto,
+<q>
+                  <lg>
+                     <l>
+                        <hi>Facilis deſenſus Averni,</hi>
+                     </l>
+                     <l>
+                        <hi>At revocare gradum, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>'Tis eaſie into Hell to fall,</l>
+                     <l>But to get back from thence is all.</l>
+                  </lg>
+               </q>
+            </p>
+            <p n="7">
+               <hi>VII. Truſting to ſervants,</hi> We uſe to ſay, <hi>The Eye of the maſter <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kes the Horſe fat;</hi> Sure I am, the not having an Eye to Servants, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll make his Purſe <hi>Lean,</hi> what with <hi>Idleneſs, Waſte,</hi> and <hi>Embezle<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents,</hi> he will find a ſenſible Conſumption in his Eſtate if he do not well examine their accompts, and continually ſuſpect their doings.</p>
+            <p n="8">
+               <hi>VIII.</hi> In ſhort whoever would <hi>Thrive,</hi> muſt continually have an eye to <hi>Frugality,</hi> a vertue that is the Root of all Liberality: For that by retrenching unneceſſary Expences, avoiding much Buying, continual borrowing, ſuperfluous buildings, vexatious Law-ſui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for trifles, chargeable Recreations, and expenſive Studies, as the Phyloſophers Stone, or the like; preſerves and maintains a plen<g ref="char:EOLhyphen"/>tiful Eſtate: which not only renders the owners life comfortable, but alſo ſerves as a Spring, whence he can ſend forth ſtreams of Bounty upon any neceſſary occaſion; which Prodigality would ſoon dry up, and leave him miſerable in himſelf and uſeleſs to o<g ref="char:EOLhyphen"/>thers: Thus ſings the witty <hi>Randolph,</hi>
+            </p>
+            <q>
+               <l>Spare not, nor ſpend too much, be this thy care,</l>
+               <l>Spare but to ſpend, and only ſpend to ſpare:</l>
+               <l>Who ſpends too much, may want and ſo complain;</l>
+               <l>But he ſpends beſt, that ſpares to ſpend again.</l>
+            </q>
+            <p n="9">
+               <hi>IX.</hi> Defects of Improving what we have, are either by <hi>Sloth,</hi> one of the greateſt baits the Devil has to all kind of wickedneſs; <hi>He that will not work, deſerves not to eat,</hi> by the Apoſtles Rule: Re<g ref="char:EOLhyphen"/>member the end of the <hi>Sluggard</hi> is miſerable Beggary. Be curious ſometimes to ſee the morning Star draw the Curtain of the day, or behold the Sun in Summer ſcatter glories as he climbs over the Ea<g ref="char:EOLhyphen"/>ſtern Hills. What a ſhame it is to ſpend half ones life-time in Dreams and Slumbers; Leave your bed therefore when firſt ſleep hath left you, leſt cuſtome renders your body ſluggiſh; or (what is worſe) your mind a Cage of unclean thoughts.</p>
+            <q>
+               <l>Account no labour ſlavery,</l>
+               <l>If honeſt gain accrue thereby.</l>
+            </q>
+            <p n="10">
+               <hi>X. Man is born to labour, as the ſparks fly upwards;</hi> ſaith <hi>Job:</hi> And as he ſhall only fill his throat with Air, that ſits <hi>lazily</hi> expe<g ref="char:EOLhyphen"/>cting Fortune to drop an Eſtate from the Clouds into his mouth, when it can only be attained by the care of a <hi>Vigilant Head,</hi> and ſweat of a <hi>laborious brow;</hi> ſo tis a moſt fooliſh <hi>proud humour,</hi> to continue in a wretched, ſharking, neceſſitous condition, rather than embrace <hi>any honeſt Employment,</hi> that might be adventagious, meer<g ref="char:EOLhyphen"/>ly becauſe it is not ſo <hi>neat and genteel</hi> as he would have it: juſt as if a condemned <hi>Malefactor</hi> ſhould refuſe a gracious Reprieve, be<g ref="char:EOLhyphen"/>cauſe 'tis not brought him in a ſilver box, or by the hands of a Privy Councellour.</p>
+            <p n="11">
+               <hi>XI.</hi> The <hi>Serious Spanyard</hi> when he would beſtow the bittereſt Curſe upon an Enemy, is wont to wiſh, <hi>he may be a Beggar when he is old.</hi> And truly there can ſcarce be a greater miſery in this life, than to be <hi>then in want,</hi> when all the faculties both of mind and bo<g ref="char:EOLhyphen"/>dy being diſabled to labour for ſupplying our neceſſities; leave us not ſo much as <hi>hope ever to raiſe our ſelves again.</hi> The conſiderati<g ref="char:EOLhyphen"/>on of which, ſhould effectually warn <hi>All,</hi> whilſt <hi>Youth</hi> and <hi>ſtrength</hi> laſt, not to trifle them away in <hi>Vanity</hi> or <hi>Debauchery:</hi> but endea<g ref="char:EOLhyphen"/>vour to lay up ſomething as a Reſerve for <hi>Gray Hairs,</hi> or a <hi>Bed</hi> of <hi>Sickneſs:</hi> not to ſpeak of a thouſand other <hi>Croſs Accidents</hi> that hap<g ref="char:EOLhyphen"/>ning ſuddenly, may utterly ruine a perſon, if he be not a little be<g ref="char:EOLhyphen"/>fore hand in the world. Moſt true is the Proverb,
+<q>
+                  <l>In Summer of Youth, take pains with the Ant,</l>
+                  <l>Or in Winter of Age, live poor and in want.</l>
+               </q>
+            </p>
+            <p n="12">
+               <hi>XII.</hi> The general means of <hi>Thriving,</hi> are for a man to be di<g ref="char:EOLhyphen"/>ligent, <hi>Nulla dies ſine linea,</hi> alwayes employed in ſome honeſt Cal<g ref="char:EOLhyphen"/>ling, or deſigns ſuitable to his condition, advantagions in themſelves, and feaſible for him to accompliſh; to be vigilant, and way-lay op<g ref="char:EOLhyphen"/>portunities: there being undoubtedly <hi>ſome</hi> offered in the courſe of <hi>every</hi> mans life, that they may make him reaſonable happy, if he have but the wit to <hi>nick</hi> them luckily. Add to this a warineſs in his Expences and Bargainings, buying if poſſibly with ready money; preſerving his Credit, by <hi>keeping touch</hi> when he appoints any pay<g ref="char:EOLhyphen"/>ments: Affability and obliging Carriage to all in matters that can<g ref="char:EOLhyphen"/>not damnifie him: but to avoid engagements for any to his preju<g ref="char:EOLhyphen"/>dice; nor to concern himſelf in others matters; not to go to Law but upon neceſſity; then firſt to take <hi>good advice</hi> on his caſe, and after<g ref="char:EOLhyphen"/>wards to proſecute it with all imaginable <hi>Vigor;</hi> that ſo the ſucceſs may make others afraid to contend with him unjuſtly.
+<q>
+                  <l>Beſides all this, diſcreetly for to wive,</l>
+                  <l>Is held by wiſemen a main help to thrive.</l>
+               </q>
+            </p>
+            <p n="13">
+               <hi>XIII.</hi> I am not ignorant with what clamour the <hi>Libertines</hi> of the Age decry that <hi>Sacred Inſtitution;</hi> but thoſe that think <hi>Wedlock</hi> ſo <hi>inſupportable a Yoak,</hi> may fancy their <hi>Garters</hi> to be <hi>Shackles,</hi> and their <hi>Bands Halters.</hi> I fear not many have received ſo fully the <hi>Gift</hi> of <hi>Continence,</hi> as to obſerve a <hi>Single life</hi> with a <hi>pure</hi> and <hi>invi<g ref="char:EOLhyphen"/>olated Chaſtity</hi> (thrice happy are thoſe that can) but if they do fly out, moſt certain I am, beſides the wounds to their <hi>Soul</hi> 'tis no ſmall prejudice to their <hi>Eſtates</hi> and buſineſs, having alwayes eſteem'd a <hi>Miſtriſs</hi> a more chargeable <hi>convenience</hi> than a <hi>Wife,</hi> the <hi>firſt</hi> ha<g ref="char:EOLhyphen"/>ving ſtill an Eye to her own profit, leſt her <hi>Gallant</hi> ſhould prove un<g ref="char:EOLhyphen"/>conſtant; whereas the intereſt of the <hi>laſt</hi> is inſeperably twiſted with that of her <hi>Husband:</hi> Nor is ſhe of ſmall advantage to him in the management of his Affairs: Hear old <hi>Tuſſer</hi> on the point,
+<q>
+                  <l>The care of the Husband enricheth the Hutch.</l>
+                  <l>The eye of the Huswife availeth as much.</l>
+                  <l>What he does provide with Money his Drudge</l>
+                  <l>She ſtill muſt look to which way it doth trudge.</l>
+               </q>
+            </p>
+            <p n="14">
+               <hi>XIV.</hi> As to the choice of a Wife, having little <hi>experience</hi> my ſelf, let me adviſe you in the words of the ſame Poet,
+<q>
+                  <l>Though love be in chuſing far better then Gold,</l>
+                  <l>Let love come with ſomewhat, the better to hold.</l>
+               </q>
+            </p>
+            <p>'Tis the moſt <hi>Critical</hi> action of a mans life; not only his <hi>own happineſs</hi> or <hi>ruin,</hi> but his <hi>relations</hi> and <hi>poſterity</hi> are concerned in it; and ſince it can be done but <hi>once,</hi> it concerns us to conſider more than <hi>twice</hi> before we undertake it: the <hi>fear of God, conſent</hi> of <hi>Parents,</hi> and a <hi>fitneſs</hi> between the parties for each other, are requiſite: A t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue mutual affection above all things ſhould precede; for nothing can be a greater <hi>torment</hi> than a <hi>loathed Bed.</hi> Yet ſince Love is a <hi>flame,</hi> 'tis convenient it ſhould have ſome <hi>fuel</hi> of Eſtate, leſt damps of <hi>neceſſity</hi> extinguiſh it. He that weds meerly for <hi>money,</hi> turns <hi>Marriage</hi> into a <hi>Bargain</hi> and <hi>Sale;</hi> and he that marries one wholly <hi>portionleſs,</hi> does the worſt of <hi>Drugeries</hi> for nothing. I would take the Woman for her <hi>own ſake;</hi> but welcome a <hi>Bag</hi> or two as good additions, conſidering <hi>Wealth</hi> in relation to her, as <hi>Cyphers</hi> in Arith<g ref="char:EOLhyphen"/>metick, which though ſignifying nothing themſelves, do yet much <hi>vary</hi> the ſignification of thoſe <hi>figures</hi> wherewith they are joynd.</p>
+            <p n="15">
+               <hi>XV.</hi> Another way whereby ſome ruin themſelves, is <hi>folly,</hi> un<g ref="char:EOLhyphen"/>dertaking things <hi>impoſſible</hi> or <hi>dangerous,</hi> or ſuffering themſelves to be <hi>cheated</hi> and <hi>rook'd</hi> of what they have: For the prevention whereof there is no better way than to deale as ſecurely with all men as if they were the verieſt <hi>Knaves;</hi> then let them prove as they will, you are <hi>ſafe.</hi> If a man impoſe on you <hi>once,</hi> tis his fault; if <hi>twice</hi> your own: Alwayes ſuſpect the <hi>ſmootheſt tongues</hi> and fair<g ref="char:EOLhyphen"/>eſt pretenders. In this ſenſe many a man is ſaved by his <hi>Infidelity.</hi>
+            </p>
+            <p n="16">
+               <hi>XVI.</hi> Above all to <hi>thrive,</hi> be very punctual in your <hi>Accompts;</hi> Regiſter all Receipts and Disburſements, and delight often to <hi>bal<g ref="char:EOLhyphen"/>lance</hi> them; never ſlight <hi>little</hi> advantages, nor contemn <hi>ſmall</hi> ex<g ref="char:EOLhyphen"/>pences: The Scotch Proverb ſays well, <hi>Every little makes a mic<g ref="char:EOLhyphen"/>kle;</hi> and the wiſeman tells you plainly, <hi>That he that contemneth lit<g ref="char:EOLhyphen"/>tle things, ſhall fall by little and little.</hi> What vaſt ſumms do ſome men trifle <hi>inſenſibly, Hangt, one Pinte</hi> with ſuch a friend, <hi>tother pot</hi> with ſuch an Acquaintance; tis but <hi>twelve pence,</hi> tis but <hi>two pence:</hi> whereas if theſe <hi>ſuperfluous</hi> expences had but been laid up together, they might have paid the <hi>Rent</hi> at the years end; or ſtopp'd ſome other gapp: for which now perhaps thy <hi>goods</hi> are like to be ſeized, or thy <hi>perſon</hi> haled away to <hi>Jail.</hi> That none may pre<g ref="char:EOLhyphen"/>tend ignorance, for want of <hi>Arithmetick;</hi> we ſhall here inſert,
+<table>
+                  <head>A Table of Expences or Wages, whereby knowing what is for one day, you may ſee what it is in a Week, Moneth, or Year.</head>
+                  <row>
+                     <cell role="label" rows="2" cols="2">By the day</cell>
+                     <cell role="label" cols="3">By the Week</cell>
+                     <cell role="label" cols="3">By the moneth</cell>
+                     <cell role="label" cols="3">By the Year.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">i.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">li.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">li.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="12">Pence</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>04</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>08</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>11</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>11</cell>
+                     <cell>00</cell>
+                     <cell>11</cell>
+                     <cell>08</cell>
+                     <cell>07</cell>
+                     <cell>12</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>20</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>16</cell>
+                     <cell>04</cell>
+                     <cell>10</cell>
+                     <cell>12</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>08</cell>
+                     <cell>12</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>03</cell>
+                     <cell>21</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>13</cell>
+                     <cell>13</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                     <cell>15</cell>
+                     <cell>04</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                     <cell>05</cell>
+                     <cell>01</cell>
+                     <cell>05</cell>
+                     <cell>08</cell>
+                     <cell>16</cell>
+                     <cell>14</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="20">Shillings</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                     <cell>36</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>54</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>73</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>91</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>109</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>2</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                     <cell>127</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                     <cell>11</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>146</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>164</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>182</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>3</cell>
+                     <cell>17</cell>
+                     <cell>00</cell>
+                     <cell>15</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>215</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>16</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                     <cell>219</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                     <cell>11</cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>237</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>4</cell>
+                     <cell>18</cell>
+                     <cell>00</cell>
+                     <cell>19</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>255</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>5</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>21</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>273</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>22</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>292</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>5</cell>
+                     <cell>19</cell>
+                     <cell>00</cell>
+                     <cell>23</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                     <cell>310</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>25</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>328</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>6</cell>
+                     <cell>13</cell>
+                     <cell>00</cell>
+                     <cell>26</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>346</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>28</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>365</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This Table is ſo plain: the meaneſt capacity cannot but under<g ref="char:EOLhyphen"/>ſtand it: Find the ſum of <hi>pence</hi> or <hi>ſhillings</hi> ſpent in one day, in the firſt Column on the left hand, and juſt againſt it you have the ſumm in pounds, ſhillings, and pence, which it makes by the Week, by the Moneth, or Year, according to the reſpective Titles above.</p>
+            <p>Hereby it appeareth, That <hi>one penny</hi> a day comes to <hi>one pound ten ſhillings and five pence</hi> in a year; and therefore in 21 years it will come to 31 <abbr>
+                  <hi>l.</hi>
+               </abbr> 18 <abbr>
+                  <hi>s.</hi>
+               </abbr> 9 <abbr>
+                  <hi>d.</hi>
+               </abbr> only by the ſaving thereof. But if you alſo imploy this, ſo that you may gain after the rate of <hi>Ten</hi> in the <hi>Hun<g ref="char:EOLhyphen"/>dred;</hi> it will amount to above <hi>Fourſcore and ſix pounds,</hi> in the ſaid time: which may be a good <hi>Portion</hi> for a Mans Child.</p>
+            <q>
+               <lg>
+                  <l>A penny is a ſmall regardleſs ſumm,</l>
+                  <l>Yet in a while we ſee to pounds twill come,</l>
+                  <l>He then that careleſly his pence doth ſpend</l>
+                  <l>Will quickly bring his pounds unto an end.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>But to conclude, take theſe words of Advice,</hi>
+                  </l>
+                  <l>
+                     <hi>Firſt Worſhip God, his bleſſing to obtain;</hi>
+                  </l>
+                  <l>
+                     <hi>For without that, man toils and moils in vain.</hi>
+                  </l>
+                  <l>
+                     <hi>Theſe Leſſons approved, if wiſely ye note,</hi>
+                  </l>
+                  <l>
+                     <hi>May ſave and advantage you many a Groat:</hi>
+                  </l>
+                  <l>
+                     <hi>Which if you can follow, occaſion found,</hi>
+                  </l>
+                  <l>
+                     <hi>Then every Leſſon may ſave thee a pound.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Spare in thy <hi>Youth,</hi> leaſt Age ſhould find thee poor.</l>
+                  <l>When time is paſt and thou canſt ſpare no more,</l>
+                  <l>No coupled miſery ſo great in either,</l>
+                  <l>As Age and Want when both do meet together.</l>
+               </lg>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed by</hi> H. Bruges <hi>for</hi> J. Conyers <hi>at the</hi> Black Raven <hi>in</hi> Duck-Lane, Licenſed and entred according to Order. <hi>VVith a Timely warning to</hi> Drunkards, Swearers, <hi>and</hi> Blaſphemers of Gods holy Name; Gameſters, Whoremongers, and other lewd Livers. And with many others.</p>
+            <pb facs="tcp:172073:3"/>
+            <pb facs="tcp:172073:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
